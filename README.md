@@ -1,133 +1,241 @@
-# Hi there, I'm Abhinav! 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Welcome to My Digital Playground
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Abhinav+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+%7C+ML+%7C+Deep+Learning+Engineer;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinavd1605&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </div>
 
----
-
-## 🚀 About Me
-
-I'm a passionate developer who loves creating innovative solutions that make a real impact. My journey spans across various technologies, with a special focus on **TypeScript**, **React**, and **Mobile Development**.
-
-- 🔭 Currently working on **EmotiCare** and **PocketPF**
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about building user-centric applications
-- 🎯 Goal: Contributing to projects that solve real-world problems
-- ⚡ Fun fact: I believe great code is poetry that computers can understand
-
----
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+  <a href="https://github.com/Abhinavd1605">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhinavd">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhinavd1605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abhinavd1605&style=for-the-badge&color=blueviolet" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 💙 EmotiCare
-**Mental Health & Emotional Wellbeing Platform**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br>
-*Building technology that cares for mental wellness*
+```python
+class Abhinav:
+    def __init__(self):
+        self.name = "Abhinav"
+        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.language_spoken = ["en_US", "hi_IN"]
+        self.current_focus = "Building AI-powered solutions"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-### 💰 PocketPF
-**Personal Finance Management Solution**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br>
-*Smart finance tracking for better money management*
+me = Abhinav()
+me.say_hi()
+```
 
-### 🎨 Frontline Aura
-**Creative Digital Experience Platform**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br>
-*Innovative solutions for digital transformation*
+<br clear="right"/>
 
-### ⚡ Spargen
-**Code Generation & Development Tool**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br>
-*Accelerating development with intelligent code generation*
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> What I'm Working On
 
-### 🎓 Campus Connect
-**Educational Platform & Community Hub**
-<br>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<br>
-*Connecting students and fostering academic collaboration*
-
-### 🆘 Esahayak
-**Emergency Assistance & Support System**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br>
-*Technology for emergency response and community support*
-
-</div>
+- 🧠 **AI/ML Projects**: Building intelligent systems that understand emotions and enhance human-computer interaction
+- 💡 **Full Stack Development**: Creating seamless web applications with modern frameworks
+- 🚀 **Innovation**: Bridging the gap between AI capabilities and real-world applications
+- 🌱 Currently exploring: **Advanced Deep Learning architectures & Cloud-Native AI deployment**
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinavd1605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavd1605&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavd1605&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavd1605&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🤝 Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+### 🤖 **AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 💻 **Full Stack Development**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 🗄️ **Database & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🛠️ **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Rocket" width="30" /> Featured Projects
+
 <div align="center">
-
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 EmotiCare AI</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/Final-EmotiCare" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=Final-EmotiCare&theme=tokyonight&hide_border=true" alt="EmotiCare" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI-FF6F61?style=flat" />
+          <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat" />
+        </p>
+        <p><strong>Mental health support chatbot using advanced NLP and emotional intelligence algorithms</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 PocketPF</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/PocketPF" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=PocketPF&theme=tokyonight&hide_border=true" alt="PocketPF" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/FinTech-FFD700?style=flat" />
+        </p>
+        <p><strong>Personal finance management application with intelligent insights</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✨ Frontline Aura</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/frontline-aura" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=frontline-aura&theme=tokyonight&hide_border=true" alt="Frontline Aura" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=flat" />
+        </p>
+        <p><strong>Modern web application showcasing advanced frontend capabilities</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Spargen</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/Spargen" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=Spargen&theme=tokyonight&hide_border=true" alt="Spargen" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Innovation-9C27B0?style=flat" />
+        </p>
+        <p><strong>Creative solution generator powered by modern technologies</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 Campus Connect</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/campus_connect" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=campus_connect&theme=tokyonight&hide_border=true" alt="Campus Connect" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        </p>
+        <p><strong>Mobile application connecting campus communities</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Empty cell for layout balance -->
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Stats" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Abhinavd1605&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F5&icon_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" alt="Abhinav's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavd1605&theme=tokyonight&hide_border=true&stroke=0d1117&background=0d1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="Abhinav's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavd1605&layout=compact&hide_border=true&title_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Contribution" width="30" /> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavd1605&bg_color=0d1117&color=6AD3F5&line=6AD3F5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="handshake" width="30" /> Let's Connect!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  
+  <h3>💡 Open to collaborating on AI/ML projects and innovative full-stack applications!</h3>
+  
+  <p>
+    <i>"Building the future, one algorithm at a time"</i>
+  </p>
+  
+  📫 **Reach me at:** abhinavd1605@gmail.com
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer" />
