@@ -179,8 +179,6 @@ me.say_hi()
         <p><strong>Mobile application connecting campus communities</strong></p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">NexCode</h3>
       <div align="center">
