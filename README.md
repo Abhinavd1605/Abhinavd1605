@@ -1,48 +1,41 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Welcome to My Digital Playground
+# Welcome to My Digital Playground 🌐
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Abhinav+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+%7C+ML+%7C+Deep+Learning+Engineer;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Abhinav+Reddy;AI+%7C+ML+%7C+Deep+Learning+Engineer;Full+Stack+Developer+%7C+Innovator" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/Abhinavd1605">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/abhinavd">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/d-abhinav-reddy-b6897230a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhinavd1605@gmail.com">
+  <a href="mailto:abhinavreddyd2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abhinav-techdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Abhinavd1605&style=for-the-badge&color=blueviolet" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class Abhinav:
     def __init__(self):
-        self.name = "Abhinav"
+        self.name = "D. Chaitanya Abhinav Reddy"
         self.role = "AI/ML Engineer & Full Stack Developer"
-        self.language_spoken = ["en_US", "hi_IN"]
-        self.current_focus = "Building AI-powered solutions"
+        self.languages = ["Python", "C++", "TypeScript/JavaScript"]
+        self.current_focus = "AI-powered Industrial & Emotional Intelligence Systems"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for visiting my profile! Let’s innovate together 🚀")
 
 me = Abhinav()
 me.say_hi()
