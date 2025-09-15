@@ -133,13 +133,13 @@ me.say_hi()
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/FinTech-FFD700?style=flat" />
         </p>
-        <p><strong>Personal finance management application with intelligent insights</strong></p>
+        <p><strong>An intelligent shopping assistant that transforms your shopping list into an optimized route through the store, powered by AI and real-time navigation.</strong></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">✨ Frontline Aura</h3>
+      <h3 align="center">CrewMind.ai </h3>
       <div align="center">
         <a href="https://github.com/Abhinavd1605/frontline-aura" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=frontline-aura&theme=tokyonight&hide_border=true" alt="Frontline Aura" />
@@ -148,7 +148,7 @@ me.say_hi()
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=flat" />
         </p>
-        <p><strong>Modern web application showcasing advanced frontend capabilities</strong></p>
+        <p><strong>AI-powered industrial assistant with 3D workplace visualization & RAG pipelines</strong></p>
       </div>
     </td>
     <td width="50%">
@@ -161,7 +161,7 @@ me.say_hi()
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Innovation-9C27B0?style=flat" />
         </p>
-        <p><strong>Creative solution generator powered by modern technologies</strong></p>
+        <p><strong>Creative ecommerce website using modern technologies</strong></p>
       </div>
     </td>
   </tr>
