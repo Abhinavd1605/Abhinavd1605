@@ -179,8 +179,20 @@ me.say_hi()
         <p><strong>Mobile application connecting campus communities</strong></p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <!-- Empty cell for layout balance -->
+      <h3 align="center">NexCode</h3>
+      <div align="center">
+        <a href="https://github.com/Abhinavd1605/nexcode" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinavd1605&repo=nexcode&theme=tokyonight&hide_border=true" alt="Nexcode" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        </p>
+        <p><strong>A modern online judge platform for competitive programming and coding education.</strong></p>
+      </div>
     </td>
   </tr>
 </table>
